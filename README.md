@@ -22,11 +22,4 @@ Some technologies i know:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Learning
-
-- Statistics and Probabilities
-- Computer Networks
-- Operational Systems
-
-![Wookyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00kyz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w00kyz&layout=compact)
